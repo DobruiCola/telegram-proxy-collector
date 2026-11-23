@@ -1,8 +1,8 @@
 {
-  "last_update": "2026-11-23T14:05:25.281888+00:00",
-  "unique_collected": 3569,
-  "checked": 3569,
-  "valid": 1353,
+  "last_update": "2026-11-23T19:28:27.367966+00:00",
+  "unique_collected": 3485,
+  "checked": 3485,
+  "valid": 1322,
   "manual_count": 10,
   "sources_ok": 36,
   "sources_failed": 20,
@@ -30,16 +30,16 @@
     },
     "https://raw.githubusercontent.com/kort0881/telegram-proxy-collector/main/proxy_asia.txt": {
       "stage": "mtproto",
-      "mtproto": 22,
+      "mtproto": 21,
       "socks5": 0,
-      "total": 22,
+      "total": 21,
       "ok": true
     },
     "https://raw.githubusercontent.com/kort0881/telegram-proxy-collector/main/proxy_all_mtproto.txt": {
       "stage": "mtproto",
-      "mtproto": 322,
+      "mtproto": 321,
       "socks5": 0,
-      "total": 322,
+      "total": 321,
       "ok": true
     },
     "https://raw.githubusercontent.com/kort0881/telegram-proxy-collector/main/proxy_all.txt": {
@@ -296,9 +296,9 @@
     },
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/refs/heads/main/protocols/mtproto.txt": {
       "stage": "mtproto",
-      "mtproto": 359,
+      "mtproto": 428,
       "socks5": 0,
-      "total": 359,
+      "total": 428,
       "ok": true
     },
     "https://moonlunavpn.com/proxies.txt": {
@@ -395,8 +395,8 @@
     "https://raw.githubusercontent.com/ProxyScrape/free-proxy-list/refs/heads/main/proxies/all/data.txt": {
       "stage": "socks5",
       "mtproto": 0,
-      "socks5": 917,
-      "total": 917,
+      "socks5": 786,
+      "total": 786,
       "ok": true
     }
   }
