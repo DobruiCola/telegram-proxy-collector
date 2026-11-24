@@ -1,8 +1,8 @@
 {
-  "last_update": "2026-11-23T19:28:27.367966+00:00",
-  "unique_collected": 3485,
-  "checked": 3485,
-  "valid": 1322,
+  "last_update": "2026-11-24T16:59:57.065784+00:00",
+  "unique_collected": 3356,
+  "checked": 3356,
+  "valid": 1291,
   "manual_count": 10,
   "sources_ok": 36,
   "sources_failed": 20,
@@ -30,16 +30,16 @@
     },
     "https://raw.githubusercontent.com/kort0881/telegram-proxy-collector/main/proxy_asia.txt": {
       "stage": "mtproto",
-      "mtproto": 21,
+      "mtproto": 22,
       "socks5": 0,
-      "total": 21,
+      "total": 22,
       "ok": true
     },
     "https://raw.githubusercontent.com/kort0881/telegram-proxy-collector/main/proxy_all_mtproto.txt": {
       "stage": "mtproto",
-      "mtproto": 321,
+      "mtproto": 322,
       "socks5": 0,
-      "total": 321,
+      "total": 322,
       "ok": true
     },
     "https://raw.githubusercontent.com/kort0881/telegram-proxy-collector/main/proxy_all.txt": {
@@ -51,23 +51,23 @@
     },
     "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt": {
       "stage": "mtproto",
-      "mtproto": 301,
+      "mtproto": 314,
       "socks5": 0,
-      "total": 301,
+      "total": 314,
       "ok": true
     },
     "https://raw.githubusercontent.com/Grim1313/mtproto-for-telegram/refs/heads/master/all_proxies.txt": {
       "stage": "mtproto",
-      "mtproto": 317,
+      "mtproto": 305,
       "socks5": 0,
-      "total": 317,
+      "total": 305,
       "ok": true
     },
     "https://raw.githubusercontent.com/ALIILAPRO/MTProtoProxy/main/mtproto.txt": {
       "stage": "mtproto",
-      "mtproto": 301,
+      "mtproto": 314,
       "socks5": 0,
-      "total": 301,
+      "total": 314,
       "ok": true
     },
     "https://mtpro.xyz/api/?type=mtproto": {
@@ -198,9 +198,9 @@
     },
     "https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies.txt": {
       "stage": "mtproto",
-      "mtproto": 302,
+      "mtproto": 293,
       "socks5": 0,
-      "total": 302,
+      "total": 293,
       "ok": true
     },
     "https://raw.githubusercontent.com/iwh3n/tg-proxy/refs/heads/main/proxys/All_Proxys.txt": {
@@ -212,9 +212,9 @@
     },
     "https://raw.githubusercontent.com/kubiknubika/my-tg-proxies/refs/heads/main/data/proxies.json": {
       "stage": "mtproto",
-      "mtproto": 217,
+      "mtproto": 213,
       "socks5": 0,
-      "total": 217,
+      "total": 213,
       "ok": true
     },
     "https://raw.githubusercontent.com/shablin/mtproto-proxy/refs/heads/main/data/valid_proxy.json": {
@@ -240,16 +240,16 @@
     },
     "https://raw.githubusercontent.com/Argh94/Proxy-List/refs/heads/main/MTProto.txt": {
       "stage": "mtproto",
-      "mtproto": 329,
+      "mtproto": 314,
       "socks5": 0,
-      "total": 329,
+      "total": 314,
       "ok": true
     },
     "https://raw.githubusercontent.com/McDaived/ProxyDaiv/refs/heads/main/public/proxies.json": {
       "stage": "mtproto",
-      "mtproto": 222,
+      "mtproto": 159,
       "socks5": 0,
-      "total": 222,
+      "total": 159,
       "ok": true
     },
     "https://raw.githubusercontent.com/klondike0x/mtp4tg-proxies/refs/heads/main/all_proxies.txt": {
@@ -296,9 +296,9 @@
     },
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/refs/heads/main/protocols/mtproto.txt": {
       "stage": "mtproto",
-      "mtproto": 428,
+      "mtproto": 328,
       "socks5": 0,
-      "total": 428,
+      "total": 328,
       "ok": true
     },
     "https://moonlunavpn.com/proxies.txt": {
@@ -374,8 +374,8 @@
     "https://gist.githubusercontent.com/December000/fd23d2530ffc29264297a5e687a79ecd/raw/all.yaml": {
       "stage": "socks5",
       "mtproto": 0,
-      "socks5": 0,
-      "total": 0,
+      "socks5": 1,
+      "total": 1,
       "ok": true
     },
     "https://raw.githubusercontent.com/CB-X2-Jun/proxy-lists/main/proxy.txt": {
@@ -388,15 +388,15 @@
     "https://raw.githubusercontent.com/CB-X2-Jun/proxy-lists/main/public/proxies.json": {
       "stage": "socks5",
       "mtproto": 0,
-      "socks5": 21,
-      "total": 21,
+      "socks5": 25,
+      "total": 25,
       "ok": true
     },
     "https://raw.githubusercontent.com/ProxyScrape/free-proxy-list/refs/heads/main/proxies/all/data.txt": {
       "stage": "socks5",
       "mtproto": 0,
-      "socks5": 786,
-      "total": 786,
+      "socks5": 654,
+      "total": 654,
       "ok": true
     }
   }
