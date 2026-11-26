@@ -1,67 +1,67 @@
 {
-  "timestamp": "2026-11-26T03:59:40.741968+00:00",
+  "timestamp": "2026-11-26T13:41:36.208739+00:00",
   "metrics": {
-    "total": 434,
-    "pings_count": 434,
-    "median_ping": 0.099,
-    "mean_ping": 0.095,
-    "stdev_ping": 0.038,
-    "good_thr": 0.099,
-    "bad_thr": 0.246,
-    "good": 217,
-    "medium": 217,
+    "total": 442,
+    "pings_count": 442,
+    "median_ping": 0.101,
+    "mean_ping": 0.096,
+    "stdev_ping": 0.039,
+    "good_thr": 0.101,
+    "bad_thr": 0.251,
+    "good": 221,
+    "medium": 221,
     "bad": 0,
     "regions": {
-      "eu": 302,
-      "us": 91,
+      "eu": 309,
+      "us": 92,
       "ru": 33,
       "asia": 8
     },
     "types": {
-      "mtproto": 434
+      "mtproto": 442
     }
   },
   "recommendations": {
     "recommended_timeout_mt": 8,
     "recommended_max_ping": 1.5,
     "recommended_workers": 200,
-    "current_avg_ping": 0.095,
-    "current_median_ping": 0.099,
-    "current_stdev_ping": 0.038,
-    "total_proxies": 434,
+    "current_avg_ping": 0.096,
+    "current_median_ping": 0.101,
+    "current_stdev_ping": 0.039,
+    "total_proxies": 442,
     "trend_median_ping": 0.002,
     "trend_direction": "stable"
   },
-  "anomalies_count": 19,
+  "anomalies_count": 21,
   "model": {
-    "cv_f1": 1.0,
+    "cv_f1": 0.9989,
     "report": {
       "0": {
         "precision": 1.0,
         "recall": 1.0,
         "f1-score": 1.0,
-        "support": 19.0
+        "support": 1.0
       },
       "1": {
         "precision": 1.0,
         "recall": 1.0,
         "f1-score": 1.0,
-        "support": 415.0
+        "support": 441.0
       },
       "accuracy": 1.0,
       "macro avg": {
         "precision": 1.0,
         "recall": 1.0,
         "f1-score": 1.0,
-        "support": 434.0
+        "support": 442.0
       },
       "weighted avg": {
         "precision": 1.0,
         "recall": 1.0,
         "f1-score": 1.0,
-        "support": 434.0
+        "support": 442.0
       }
     },
-    "threshold": 0.14775
+    "threshold": 0.15075
   }
 }
